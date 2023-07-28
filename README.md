@@ -5,7 +5,7 @@ Dataset link:- https://www.kaggle.com/datasets/varsharam/walmart-sales-dataset-o
 
 Google Colab notebook is linked here:- https://colab.research.google.com/drive/12YRCKG8qh4NkdwsfF9rEBkWTkypopRaW#scrollTo=5rthbwb7HfOs
 
-#About the DataSet 
+# About the DataSet 
 
 The file has information about the Weekly Sales of 45 stores for the year 2010-2012 including the factors affectors affecting Sales such as Holidays, Temperature, Fuel Price, CPI, and Unemployment.
 
