@@ -2,6 +2,7 @@
 Predicting Walmart store sales using Random Forest
 
 Dataset link:- https://www.kaggle.com/datasets/varsharam/walmart-sales-dataset-of-45stores
+
 Google Colab notebook is linked here:- https://colab.research.google.com/drive/12YRCKG8qh4NkdwsfF9rEBkWTkypopRaW#scrollTo=5rthbwb7HfOs
 
 # Conclusion
